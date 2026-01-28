@@ -1,0 +1,2 @@
+# Requires: deprecated-deferral
+# (Not available on PyPI)
